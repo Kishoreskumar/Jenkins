@@ -1,0 +1,20 @@
+{
+    "name": "jnyberg/testo",
+    "description": "",
+    "authors": [
+        {
+            "name": "Johan Nyberg",
+            "email": "nybergjohan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jnyberg\\Testo": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
